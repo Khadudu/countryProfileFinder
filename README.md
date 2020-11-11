@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-##countnryProfileFinder
+## countryProfileFinder
 
 This component utilizes restcountries.eu api to fetch the list of countries across the world. 
 The component has a search functionality that enables users search for a country, the list of countries is filtered to match the search query. 
